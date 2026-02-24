@@ -1,5 +1,3 @@
-# Industrial-IoT-Monitoring-Lab
-Wokwi ESP32 水溫警告模擬系統
 # 🏭 工業級監控與維運自動化實戰 (IoT & System Monitor)
 
 這個專案記錄了我將 **廠務水處理工程師** 的實務經驗，轉化為 **Linux 維運與 IoT 自動化** 技術的開發過程。
